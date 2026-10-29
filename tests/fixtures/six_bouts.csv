@@ -1,0 +1,17 @@
+event,event_date,fighter_1,fighter_2,result,method,round,time
+UFC 3,"March 3, 2001",Ann Alpha,Cat Gamma,"draw
+
+
+draw",M-DEC,3,5:00
+UFC 3,"March 3, 2001",Ann Alpha,Bea Beta,win,"KO/TKO
+
+      Punch",1,1:00
+UFC 2,"February 2, 2000",Cat Gamma,Dee Delta,win,"SUB
+
+  Rear Naked Choke",2,2:00
+UFC 2,"February 2, 2000",Bea Beta,Cat Gamma,win,U-DEC,3,5:00
+UFC 1,"January 1, 1999",Bea Beta,Dee Delta,"nc
+
+
+nc",Overturned,1,1:00
+UFC 1,"January 1, 1999",Ann Alpha,Bea Beta,win,U-DEC,3,5:00
